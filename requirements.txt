@@ -1,0 +1,22 @@
+# Основные и стандартные библиотеки
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.1
+seaborn==0.13.2
+statsmodels==0.14.2
+joblib==1.4.2
+missingno==0.5.2
+phik==0.12.4
+shap==0.46.0
+
+# ML-фреймворки
+catboost==1.2.8
+lightgbm==4.6.0
+imbalanced-learn==0.12.3
+
+# Вспомогательные
+ipython==8.12.3
+jupyter==1.0.0
+python-dateutil==2.9.0.post0
+typing-extensions==4.11.0
