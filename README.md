@@ -1,4 +1,5 @@
 # Purchase Propensity Prediction
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Прогнозирование вероятности совершения покупки клиентом в течение 90 дней для оптимизации маркетинговых кампаний интернет-магазина.
 
